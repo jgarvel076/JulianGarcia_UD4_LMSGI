@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial></editorial>
+        <fechapublicacion></fechapublicacion>
+    </libro>
+</libreria>

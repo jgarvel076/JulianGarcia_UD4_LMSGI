@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "Libreria.dtd">
+<libreria>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Dmitri</nombre>
+                <apellidos>Glujovski</apellidos>
+            </autor>
+        </autores>
+        <titulo>Metro 2033</titulo>
+        <editorial>Timun Mas Narrativa</editorial>
+        <fechapublicacion>abril 2002</fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Dmitri</nombre>
+                <apellidos>Glujovski</apellidos>
+            </autor>
+        </autores>
+        <titulo>Metro 2034</titulo>
+        <editorial>Timun Mas Narrativa</editorial>
+        <fechapublicacion>16 marzo 2009</fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Dmitri</nombre>
+                <apellidos>Glujovski</apellidos>
+            </autor>
+        </autores>
+        <titulo>Metro 2035</titulo>
+        <editorial>Timun Mas Narrativa</editorial>
+        <fechapublicacion>12 junio 2015</fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Dmitri</nombre>
+                <apellidos>Glujovski</apellidos>
+            </autor>
+        </autores>
+        <titulo>Metro 2035</titulo>
+        <editorial>Timun Mas Narrativa</editorial>
+        <fechapublicacion>12 junio 2015</fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Vladimir</nombre>
+                <apellidos>Alamut</apellidos>
+            </autor>
+        </autores>
+        <titulo>Alamut</titulo>
+        <editorial>No tiene editorial</editorial>
+        <fechapublicacion>1938</fechapublicacion>
+    </libro>
+    
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Arkady</nombre>
+                <apellidos>Strugatsky</apellidos>
+            </autor>
+        </autores>
+        <titulo>Picnic extraterreste</titulo>
+        <editorial>No tiene editorial</editorial>
+        <fechapublicacion>1972</fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Tom</nombre>
+                <apellidos>Clancy</apellidos>
+            </autor>
+        </autores>
+        <titulo>Rainbow six</titulo>
+        <editorial>Penguin</editorial>
+        <fechapublicacion>17 de mayo de 2002</fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Tom</nombre>
+                <apellidos>Clancy</apellidos>
+            </autor>
+        </autores>
+        <titulo>Ghost reacon</titulo>
+        <editorial>Penguin</editorial>
+        <fechapublicacion>29 de Enero de 2013</fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Joseph</nombre>
+                <apellidos>Conrad</apellidos>
+            </autor>
+        </autores>
+        <titulo>El corazón de las tinieblas</titulo>
+        <editorial>Penguin</editorial>
+        <fechapublicacion>1899</fechapublicacion>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Andrzej</nombre>
+                <apellidos>Sapkowski</apellidos>
+            </autor>
+        </autores>
+        <titulo>The witcher: a grain of truth</titulo>
+        <editorial>Penguin</editorial>
+        <fechapublicacion>21 de junio de 2022</fechapublicacion>
+    </libro>
+</libreria>
