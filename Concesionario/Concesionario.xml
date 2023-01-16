@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionario SYSTEM "Concesionario.dtd">
+<concesionario>
+    <coche>
+        <codigocoche>1</codigocoche>
+        <marca>Mercedes-Benz</marca>
+        <modelo>AMG C63s</modelo>
+        <matricula>0001MBB</matricula>
+        <potencia>510</potencia>
+        <plazas>5</plazas>
+        <numerodepuertas>4</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>2</codigocoche>
+        <marca>Mercedes-Benz</marca>
+        <modelo>AMG G63</modelo>
+        <matricula>0002MBB</matricula>
+        <potencia>585</potencia>
+        <plazas>5</plazas>
+        <numerodepuertas>5</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>3</codigocoche>
+        <marca>Mercedes-Benz</marca>
+        <modelo>AMG C43</modelo>
+        <matricula>0003MBB</matricula>
+        <potencia>408</potencia>
+        <plazas>5</plazas>
+        <numerodepuertas>4</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>4</codigocoche>
+        <marca>BMW</marca>
+        <modelo>M2</modelo>
+        <matricula>0004MBB</matricula>
+        <potencia>460</potencia>
+        <plazas>5</plazas>
+        <numerodepuertas>2</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>5</codigocoche>
+        <marca>BMW</marca>
+        <modelo>M4</modelo>
+        <matricula>0005MBB</matricula>
+        <potencia>510</potencia>
+        <plazas>5</plazas>
+        <numerodepuertas>2</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>6</codigocoche>
+        <marca>BMW</marca>
+        <modelo>M8</modelo>
+        <matricula>0006MBB</matricula>
+        <potencia>625</potencia>
+        <plazas>5</plazas>
+        <numerodepuertas>2</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>7</codigocoche>
+        <marca>Porsche</marca>
+        <modelo>911 Carrera</modelo>
+        <matricula>0007MBB</matricula>
+        <potencia>450</potencia>
+        <plazas>2</plazas>
+        <numerodepuertas>2</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>8</codigocoche>
+        <marca>Porsche</marca>
+        <modelo>911 GT3</modelo>
+        <matricula>0008MBB</matricula>
+        <potencia>510</potencia>
+        <plazas>2</plazas>
+        <numerodepuertas>2</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>9</codigocoche>
+        <marca>Porsche</marca>
+        <modelo>Cayenne</modelo>
+        <matricula>0009MBB</matricula>
+        <potencia>440</potencia>
+        <plazas>5</plazas>
+        <numerodepuertas>5</numerodepuertas>
+    </coche>
+    <coche>
+        <codigocoche>10</codigocoche>
+        <marca>Citroën</marca>
+        <modelo>c15</modelo>
+        <matricula>CA4547TO</matricula>
+        <potencia>75</potencia>
+        <plazas>5</plazas>
+        <numerodepuertas>4</numerodepuertas>
+    </coche>
+</concesionario>
