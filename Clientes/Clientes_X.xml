@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmr.es Clientes.xsd">
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Juan</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>sovente</descripcion>
+        </sede>
+        <codigo_cliente>1</codigo_cliente>
+        <numero>3</numero>
+        <coste>250.000</coste>
+        <resumen>Vivienda de 300m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+        <plazo>13/09/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Juan</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>sovente</descripcion>
+        </sede>
+        <codigo_cliente>2</codigo_cliente>
+        <numero>2</numero>
+        <coste>300.000</coste>
+        <resumen>Vivienda de 250m2, con 2 cuartos, 2 cuartos de baño, 1 salon y 2 cocinas</resumen>
+        <plazo>29/09/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Juan</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>sovente</descripcion>
+        </sede>
+        <codigo_cliente>3</codigo_cliente>
+        <numero>4</numero>
+        <coste>270.000</coste>
+        <resumen>Vivienda de 275m2, con 3 cuartos, 1 cuarto de baño, 2 salones y 1 cocina</resumen>
+        <plazo>13/09/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Alberto</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>solvente</descripcion>
+        </sede>
+        <codigo_cliente>4</codigo_cliente>
+        <numero>1</numero>
+        <coste>500.000</coste>
+        <resumen>Vivienda de 450m2, con 4 cuartos, 2 cuartos de baño, 1 salones y 1 cocina</resumen>
+        <plazo>01/12/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Alberto</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>solvente</descripcion>
+        </sede>
+        <codigo_cliente>5</codigo_cliente>
+        <numero>4</numero>
+        <coste>150.000</coste>
+        <resumen>Vivienda de 200m2, con 3 cuartos, 1 cuarto de baño, 1 salon y 1 cocina</resumen>
+        <plazo>22/08/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Alberto</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>sovente</descripcion>
+        </sede>
+        <codigo_cliente>6</codigo_cliente>
+        <numero>9</numero>
+        <coste>200.000</coste>
+        <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+        <plazo>03/09/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>2</codigo_sede>
+            <nombreempleado>Pablo</nombreempleado>
+            <fecha>19/01/2023</fecha>
+            <descripcion>sovente</descripcion>
+        </sede>
+        <codigo_cliente>7</codigo_cliente>
+        <numero>1</numero>
+        <coste>1.000.000</coste>
+        <resumen>Vivienda de 600m2, con 6 cuartos, 6 cuartos de baño, 2 salones y 2 cocinas</resumen>
+        <plazo>11/09/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Pablo</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>slovente</descripcion>
+        </sede>
+        <codigo_cliente>8</codigo_cliente>
+        <numero>2</numero>
+        <coste>230.000</coste>
+        <resumen>Vivienda de 230m2, con 2 cuartos, 2 cuartos de baño, 1 salones y 1 cocina</resumen>
+        <plazo>13/10/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Jose</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>solvente</descripcion>
+        </sede>
+        <codigo_cliente>9</codigo_cliente>
+        <numero>8</numero>
+        <coste>300.000</coste>
+        <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+        <plazo>02/11/2024</plazo>
+    </cliente>
+    <cliente>
+        <sede>
+            <codigo_sede>1</codigo_sede>
+            <nombreempleado>Jose</nombreempleado>
+            <fecha>20/01/2023</fecha>
+            <descripcion>sovente</descripcion>
+        </sede>
+        <codigo_cliente>10</codigo_cliente>
+        <numero>6</numero>
+        <coste>200.000</coste>
+        <resumen>Vivienda de 200m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+        <plazo>17/08/2024</plazo>
+    </cliente>
+</clientes>
