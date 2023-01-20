@@ -12,6 +12,7 @@
                                     <xs:sequence>
                                         <xs:element name="codigo_sede" type="xs:string"/>
                                         <xs:element name="nombreempleado" type="xs:string"/>
+                                        <xs:element name="direccion" type="xs:string"/>
                                         <xs:element name="fecha" type="xs:string"/>
                                         <xs:element name="descripcion" type="xs:string"/>
                                     </xs:sequence>

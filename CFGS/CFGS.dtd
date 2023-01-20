@@ -1,0 +1,6 @@
+<!ELEMENT CFGS (alumno*)>
+<!ELEMENT alumno (nif, resultado, observaciones, IP-MAC)>
+<!ELEMENT nif (#PCDATA)>
+<!ELEMENT resultado (#PCDATA)>
+<!ELEMENT observaciones (#PCDATA)> 
+<!ELEMENT IP-MAC (#PCDATA)>
