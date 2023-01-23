@@ -2,7 +2,7 @@
 <clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmr.es Clientes(mejora).xsd">
     <cliente>
         <sede>
-            <codigo_sede>1</codigo_sede>
+            <codigo_sede>A12345678</codigo_sede>
             <direccion>Cadiz C/Benito Perez nº59</direccion>
             <nombreempleado>Juan</nombreempleado>
             <fecha>20/01/2023</fecha>
@@ -16,7 +16,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>1</codigo_sede>
+            <codigo_sede>A12345678</codigo_sede>
             <nombreempleado>Juan</nombreempleado>
             <direccion>Cadiz C/Benito Perez nº59</direccion>
             <direccion>Cadiz C/Jose Zarruda nº79</direccion>
@@ -31,7 +31,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>1</codigo_sede>
+            <codigo_sede>A12345678</codigo_sede>
             <nombreempleado>Juan</nombreempleado>
             <direccion>Cadiz C/Benito Perez nº59</direccion>
             <fecha>20/01/2023</fecha>
@@ -45,7 +45,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>1</codigo_sede>
+            <codigo_sede>A12345678</codigo_sede>
             <nombreempleado>Alberto</nombreempleado>
             <direccion>Cadiz C/Benito Perez nº59</direccion>
             <fecha>20/01/2023</fecha>
@@ -59,7 +59,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>1</codigo_sede>
+            <codigo_sede>A12345678</codigo_sede>
             <nombreempleado>Alberto</nombreempleado>
             <direccion>Cadiz C/Benito Perez nº59</direccion>
             <fecha>20/01/2023</fecha>
@@ -73,7 +73,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>1</codigo_sede>
+            <codigo_sede>A12345678</codigo_sede>
             <nombreempleado>Alberto</nombreempleado>
             <direccion>Cadiz C/Benito Perez nº59</direccion>
             <fecha>20/01/2023</fecha>
@@ -87,7 +87,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>2</codigo_sede>
+            <codigo_sede>B12345678</codigo_sede>
             <nombreempleado>Pablo</nombreempleado>
             <direccion>El Bosque C/Almeida nº12</direccion>
             <fecha>19/01/2023</fecha>
@@ -101,7 +101,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>2</codigo_sede>
+            <codigo_sede>B12345678</codigo_sede>
             <nombreempleado>Pablo</nombreempleado>
             <direccion>El Bosque C/Almeida nº12</direccion>
             <fecha>20/01/2023</fecha>
@@ -115,7 +115,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>2</codigo_sede>
+            <codigo_sede>B12345678</codigo_sede>
             <nombreempleado>Jose</nombreempleado>
             <direccion>El Bosque C/Almeida nº12</direccion>
             <fecha>20/01/2023</fecha>
@@ -129,7 +129,7 @@
     </cliente>
     <cliente>
         <sede>
-            <codigo_sede>2</codigo_sede>
+            <codigo_sede>B12345678</codigo_sede>
             <nombreempleado>Jose</nombreempleado>
             <direccion>El Bosque C/Almeida nº12</direccion>
             <fecha>20/01/2023</fecha>
