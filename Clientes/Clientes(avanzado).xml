@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmr.es Clientes(avanzado).xsd">
+<sede>
+    <codigo_sede>A12345678</codigo_sede>
+    <nombreempleado>Juan</nombreempleado>
+    <direccion>Cadiz C/Benito Perez nº59</direccion>
+    <fecha>20/01/2023</fecha>
+    <cliente codigo="111-AAA">
+        <descripcion>sovente</descripcion>
+        <numero>3</numero>
+        <Vivienda ID=001>
+            <coste>250.000</coste>
+            <resumen>Vivienda de 300m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>13/09/2024</plazo>
+        </Vivienda>
+        <Vivienda ID=002>
+            <coste>250.000</coste>
+            <resumen>Vivienda de 300m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>13/09/2024</plazo>
+        </Vivienda>
+        <Vivienda ID=003>
+            <coste>250.000</coste>
+            <resumen>Vivienda de 300m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>13/09/2024</plazo>
+        </Vivienda>
+    </cliente>
+</sede>
+<sede>
+    <codigo_sede>A12345678</codigo_sede>
+    <nombreempleado>Juan</nombreempleado>
+    <direccion>Cadiz C/Benito Perez nº59</direccion>
+    <fecha>20/01/2023</fecha>       
+    <cliente codigo="222-AAA">
+        <descripcion>sovente</descripcion> 
+        <numero>2</numero>
+        <vivienda ID=004>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 250m2, con 2 cuartos, 2 cuartos de baño, 1 salon y 2 cocinas</resumen>
+            <plazo>29/09/2024</plazo>
+        </vivienda>
+        <vivienda ID=005>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 250m2, con 2 cuartos, 2 cuartos de baño, 1 salon y 2 cocinas</resumen>
+            <plazo>29/09/2024</plazo>
+        </vivienda>
+    </cliente>
+</sede>
+<sede>
+        <codigo_sede>A12345678</codigo_sede>
+        <nombreempleado>Juan</nombreempleado>
+        <direccion>Cadiz C/Benito Perez nº59</direccion>
+        <fecha>20/01/2023</fecha>
+    <cliente codigo="333-AAA">
+        <descripcion>sovente</descripcion>
+        <numero>4</numero>
+        <vivienda ID=006>
+            <coste>270.000</coste>
+            <resumen>Vivienda de 275m2, con 3 cuartos, 1 cuarto de baño, 2 salones y 1 cocina</resumen>
+            <plazo>13/09/2024</plazo>
+        </vivienda>
+        <vivienda ID=007>
+            <coste>270.000</coste>
+            <resumen>Vivienda de 275m2, con 3 cuartos, 1 cuarto de baño, 2 salones y 1 cocina</resumen>
+            <plazo>13/09/2024</plazo>
+        </vivienda>
+        <vivienda ID=008>
+            <coste>270.000</coste>
+            <resumen>Vivienda de 275m2, con 3 cuartos, 1 cuarto de baño, 2 salones y 1 cocina</resumen>
+            <plazo>13/09/2024</plazo>
+        </vivienda>
+        <vivienda ID=009>
+            <coste>270.000</coste>
+            <resumen>Vivienda de 275m2, con 3 cuartos, 1 cuarto de baño, 2 salones y 1 cocina</resumen>
+            <plazo>13/09/2024</plazo>
+        </vivienda>
+    </cliente>
+</sede>
+<sede codigo="A12345678">
+    <nombreempleado>Alberto</nombreempleado>
+    <direccion>Cadiz C/Benito Perez nº59</direccion>
+    <fecha>20/01/2023</fecha>
+    <cliente codigo="444-AAA">
+        <descripcion>solvente</descripcion>
+        <numero>1</numero>
+        <vivenda ID=010></vivenda>
+            <coste>500.000</coste>
+            <resumen>Vivienda de 450m2, con 4 cuartos, 2 cuartos de baño, 1 salones y 1 cocina</resumen>
+            <plazo>01/12/2024</plazo>
+        </vivenda>
+    </cliente>
+</sede>
+<sede codigo="A12345678">
+    <nombreempleado>Alberto</nombreempleado>
+    <direccion>Cadiz C/Benito Perez nº59</direccion>
+    <fecha>20/01/2023</fecha>
+    <cliente codigo="555-AAA">
+        <numero>4</numero>
+        <vivienda ID=011>
+        <coste>150.000</coste>
+        <resumen>Vivienda de 200m2, con 3 cuartos, 1 cuarto de baño, 1 salon y 1 cocina</resumen>
+        <plazo>22/08/2024</plazo>
+        </vivienda>
+        <vivienda ID=012>
+            <coste>150.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 1 cuarto de baño, 1 salon y 1 cocina</resumen>
+            <plazo>22/08/2024</plazo>
+        </vivienda>
+        <vivienda ID=013>
+            <coste>150.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 1 cuarto de baño, 1 salon y 1 cocina</resumen>
+            <plazo>22/08/2024</plazo>
+        </vivienda>
+        <vivienda ID=014>
+            <coste>150.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 1 cuarto de baño, 1 salon y 1 cocina</resumen>
+            <plazo>22/08/2024</plazo>
+        </vivienda>
+    </cliente>
+</sede>
+<sede codigo="A12345678">
+    <nombreempleado>Alberto</nombreempleado>
+    <direccion>Cadiz C/Benito Perez nº59</direccion>
+    <fecha>20/01/2023</fecha>
+    <cliente codigo="666-AAA">
+        <descripcion>sovente</descripcion>
+        <numero>9</numero>
+        <vivenda ID=015>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+        <vivenda ID=016>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+        <vivenda ID=015>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+        <vivenda ID=017>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+        <vivenda ID=018>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+        <vivenda ID=019>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+        <vivenda ID=020>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+        <vivenda ID=021>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+        <vivenda ID=022>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 290m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>03/09/2024</plazo>
+        </vivenda>
+    </cliente>
+</sede>
+<sede codigo="b12345678">
+    <nombreempleado>Pablo</nombreempleado>
+    <direccion>El Bosque C/Almeida nº12</direccion>
+    <fecha>19/01/2023</fecha>
+    <cliente codigo="777-AAA">
+        <descripcion>sovente</descripcion>
+        <numero>1</numero>
+        <vivenda ID=023>
+            <coste>1.000.000</coste>
+            <resumen>Vivienda de 600m2, con 6 cuartos, 6 cuartos de baño, 2 salones y 2 cocinas</resumen>
+            <plazo>11/09/2024</plazo>
+        </vivenda>
+    </cliente>
+</sede>
+
+<sede codigo="B12345678">
+    <nombreempleado>Pablo</nombreempleado>
+    <direccion>El Bosque C/Almeida nº12</direccion>
+    <fecha>20/01/2023</fecha>
+    <cliente codigo="888-AAA">
+        <descripcion>slovente</descripcion>
+        <numero>2</numero>
+        <vivienda ID=024></vivienda>
+            <coste>230.000</coste>
+            <resumen>Vivienda de 230m2, con 2 cuartos, 2 cuartos de baño, 1 salones y 1 cocina</resumen>
+            <plazo>13/10/2024</plazo>
+        </vivienda>
+        <numero>2</numero>
+        <vivienda ID=025></vivienda>
+            <coste>230.000</coste>
+            <resumen>Vivienda de 230m2, con 2 cuartos, 2 cuartos de baño, 1 salones y 1 cocina</resumen>
+            <plazo>13/10/2024</plazo>
+        </vivienda>
+    </cliente>
+</sede>    
+<sede codigo="B12345678">
+    <nombreempleado>Jose</nombreempleado>
+    <direccion>El Bosque C/Almeida nº12</direccion>
+    <fecha>20/01/2023</fecha>
+    <cliente codigo="999-AAA">
+        <descripcion>solvente</descripcion>
+        <numero>8</numero>
+        <vivienda ID=026>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+            <plazo>02/11/2024</plazo>
+        </vivienda>
+        <vivienda ID=027>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+            <plazo>02/11/2024</plazo>
+        </vivienda>
+        <vivienda ID=028>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+            <plazo>02/11/2024</plazo>
+        </vivienda>
+        <vivienda ID=029>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+            <plazo>02/11/2024</plazo>
+        </vivienda>
+        <vivienda ID=030>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+            <plazo>02/11/2024</plazo>
+        </vivienda>
+        <vivienda ID=031>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+            <plazo>02/11/2024</plazo>
+        </vivienda>
+        <vivienda ID=032>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+            <plazo>02/11/2024</plazo>
+        </vivienda>
+        <vivienda ID=033>
+            <coste>300.000</coste>
+            <resumen>Vivienda de 300m2, con 4 cuartos, 2 cuartos de baño, 2 salones y 2 cocina</resumen>
+            <plazo>02/11/2024</plazo>
+        </vivienda>
+    </cliente>
+</sede>
+<sede codigo="B12345678">
+    <nombreempleado>Jose</nombreempleado>
+    <direccion>El Bosque C/Almeida nº12</direccion>
+    <fecha>20/01/2023</fecha>
+    <cliente codigo="001-BBB">
+        <descripcion>sovente</descripcion>
+        <numero>6</numero>
+        <vivenda ID=034>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>17/08/2024</plazo>
+        </vivenda>
+        vivenda ID=035>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>17/08/2024</plazo>
+        </vivenda>
+        vivenda ID=036>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>17/08/2024</plazo>
+        </vivenda>
+        vivenda ID=037>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>17/08/2024</plazo>
+        </vivenda>
+        vivenda ID=038>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>17/08/2024</plazo>
+        </vivenda>
+        vivenda ID=039>
+            <coste>200.000</coste>
+            <resumen>Vivienda de 200m2, con 3 cuartos, 2 cuartos de baño, 2 salones y 1 cocina</resumen>
+            <plazo>17/08/2024</plazo>
+        </vivenda>
+    </cliente>
+</sede>
