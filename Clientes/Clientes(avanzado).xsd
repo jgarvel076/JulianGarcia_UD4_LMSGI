@@ -30,6 +30,7 @@
                                 </xs:complexType>
                             </xs:element>
                         </xs:sequence>
+                        <xs:attribute name="ID" type="xs:integer"/>
                     </xs:complexType>
                 </xs:element>
             </xs:sequence>

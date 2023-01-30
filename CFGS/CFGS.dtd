@@ -1,6 +1,9 @@
-<!ELEMENT CFGS (alumno*)>
-<!ELEMENT alumno (nif, resultado, observaciones, IP-MAC)>
+<!ELEMENT practicas (alumno*)>
+<!ELEMENT alumno ANY>
 <!ELEMENT nif (#PCDATA)>
 <!ELEMENT resultado (#PCDATA)>
-<!ELEMENT observaciones (#PCDATA)> 
-<!ELEMENT IP-MAC (#PCDATA)>
+<!ELEMENT observaciones ANY>
+<!ELEMENT anhos (#PCDATA)>
+<!ELEMENT poblacion (#PCDATA)>
+<!ELEMENT ip (#PCDATA)>
+<!ELEMENT mac (#PCDATA)>
