@@ -1,0 +1,11 @@
+<!ELEMENT editorial (cabecera, tabla)>
+<!ELEMENT cabecera (titulo, subtitulo, descripcion, fechadelinforme)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT subtitulo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT fechadelinforme (#PCDATA)>
+<!ELEMENT tabla (region*)>
+<!ELEMENT region ANY>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT Tablatrimestre (#PCDATA)>
+<!ELEMENT librosvendidos (#PCDATA)>
