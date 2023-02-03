@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    version="0.1" xml:lang="es">
+    <xs:element name="practicaCFGS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="practicas" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="alumno">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="nif" type="xs:string"/>
+                                        <xs:element name="resultado" type="xs:string"/>
+                                        <xs:element name="observaciones">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="anhos" type="xs:string"/>
+                                                    <xs:element name="poblacion" type="xs:string"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:choice>
+                                            <xs:element name="ip" type="xs:string"/>
+                                            <xs:element name="mac" type="xs:string"/>
+                                        </xs:choice>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE practicas SYSTEM "practicaCFGS.dtd">
+<practicas>
+	<alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+    <alumno>
+		<nif></nif>
+		<resultado></resultado>
+		<observaciones><anhos></anhos><poblacion></poblacion></observaciones>
+		<ip></ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+</practicas>

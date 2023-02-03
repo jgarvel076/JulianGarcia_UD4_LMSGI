@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE practicas SYSTEM "CFGS.dtd">
+<!DOCTYPE practicas SYSTEM "practicaCFGS.dtd">
 <practicas>
 	<alumno>
 		<nif>95555555K</nif>

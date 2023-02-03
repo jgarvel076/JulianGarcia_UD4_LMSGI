@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<practicas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmr.es practicasCFGS.xsd">
+	<alumno>
+		<nif>95555555K</nif>
+		<resultado>Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>20</anhos>años y vive en <poblacion>Lugo</poblacion></observaciones>
+		<ip>172.168.1.1</ip> <!-- Los alumnos tienen IP o MAC pero no ambas -->
+	</alumno>
+	<alumno>
+		<nif>44444444A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>18</anhos>años y vive en <poblacion>Pontevedra</poblacion></observaciones>
+		<mac>56:FE:45:CA:45:12</mac>
+	</alumno>
+	<alumno>
+		<nif>12345678A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>19</anhos>años y vive en <poblacion>La Rioja</poblacion></observaciones>
+		<mac>56:FE:25:CA:40:12</mac>
+	</alumno>
+	<alumno>
+		<nif>23456789A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>18</anhos>años y vive en <poblacion>Vigo</poblacion></observaciones>
+		<mac>96:FE:45:CA:45:32</mac>
+	</alumno>
+	<alumno>
+		<nif>13456789A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>24</anhos>años y vive en <poblacion>Pontevedra</poblacion></observaciones>
+		<mac>56:FF:55:CA:45:12</mac>
+	</alumno>
+	<alumno>
+		<nif>94456789A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>20</anhos>años y vive en <poblacion>Geida</poblacion></observaciones>
+		<mac>56:FF:55:CA:45:12</mac>
+	</alumno>
+	<alumno>
+		<nif>02356789A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>22</anhos>años y vive en <poblacion>Porto</poblacion></observaciones>
+		<mac>56:FF:55:CA:45:12</mac>
+	</alumno>
+	<alumno>
+		<nif>13448789A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>19</anhos>años y vive en <poblacion>Lisboa</poblacion></observaciones>
+		<mac>56:FF:55:CA:45:12</mac>
+	</alumno>
+	<alumno>
+		<nif>13449789A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>24</anhos>años y vive en <poblacion>Berlin</poblacion></observaciones>
+		<mac>56:FF:55:CA:45:12</mac>
+	</alumno>
+	<alumno>
+		<nif>13451239A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>17</anhos>años y vive en <poblacion>Angustias del Rio</poblacion></observaciones>
+		<mac>56:FF:55:CA:45:12</mac>
+	</alumno>
+</practicas>

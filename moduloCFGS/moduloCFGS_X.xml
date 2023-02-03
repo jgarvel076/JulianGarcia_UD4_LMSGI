@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmr.es moduloCFGS.xsd">
+    <modulo>
+        <nombre>Base de datos</nombre>
+        <contenidos>
+            <unidadesdidacticas>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Iniciación esquemas de una base de datos</descripcion>
+                </unidad>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Iniciación SQL</descripcion>
+                </unidad>
+            </unidadesdidacticas>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Lenguaje de marcas</nombre>
+        <contenidos>
+            <unidadesdidacticas>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Iniciación xml</descripcion>
+                </unidad>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Ampliación xml</descripcion>
+                </unidad>
+            </unidadesdidacticas>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Entorno y desarrollo</nombre>
+        <contenidos>
+            <unidadesdidacticas>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Inicio pruebas unitarias</descripcion>
+                </unidad>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Inicio depuración de codigos</descripcion>
+                </unidad>
+            </unidadesdidacticas>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Programación</nombre>
+        <contenidos>
+            <unidadesdidacticas>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Inicio Arrays</descripcion>
+                </unidad>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Inicio metodos</descripcion>
+                </unidad>
+            </unidadesdidacticas>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Sistemas informaticos</nombre>
+        <contenidos>
+            <unidadesdidacticas>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Inicio maquina virtual</descripcion>
+                </unidad>
+                <unidad>
+                    <tipo>Informatica</tipo>
+                    <descripcion>Inicio faiserver</descripcion>
+                </unidad>
+            </unidadesdidacticas>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>FOL</nombre>
+        <contenidos>
+            <unidadesdidacticas>
+                <unidad>
+                    <tipo>Orientación  laboral</tipo>
+                    <descripcion>Inicio Nominas</descripcion>
+                </unidad>
+                <unidad>
+                    <tipo>Orientación  laboral</tipo>
+                    <descripcion>Inicio Finiquitos</descripcion>
+                </unidad>
+            </unidadesdidacticas>
+        </contenidos>
+    </modulo>
+</modulos>

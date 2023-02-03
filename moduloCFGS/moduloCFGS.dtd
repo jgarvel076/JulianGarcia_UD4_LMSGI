@@ -1,0 +1,8 @@
+<!ELEMENT modulos (modulo*)>
+<!ELEMENT modulo (nombre, contenidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT contenidos (unidadesdidacticas)>
+<!ELEMENT unidadesdidacticas (unidad*)>
+<!ELEMENT unidad (tipo, descripcion)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>

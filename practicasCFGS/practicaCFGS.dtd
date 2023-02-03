@@ -1,5 +1,5 @@
 <!ELEMENT practicas (alumno*)>
-<!ELEMENT alumno ANY>
+<!ELEMENT alumno (nif, resultado, observaciones, (ip | mac))>
 <!ELEMENT nif (#PCDATA)>
 <!ELEMENT resultado (#PCDATA)>
 <!ELEMENT observaciones ANY>
